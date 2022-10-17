@@ -36,12 +36,4 @@ public class Sitizen {
         return children.get(i);
     }
 
-//    private int children;
-//    Sitizen(String fio, int children) throws Exception{
-//        if(children<0){
-//            throw new Exception("Недопустимые данные!");
-//        }
-//        this.children = children;
-//        this.fio = fio;
-//    }
 }

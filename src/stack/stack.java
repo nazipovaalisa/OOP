@@ -6,7 +6,6 @@ public class stack {
     private int head;
 
 
-
     stack(int n){
         size = n;
         items = new Object[size];
